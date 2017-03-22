@@ -1,2 +1,3 @@
-# gaza_programme
-A repository for the coordination of activities in Gaza
+# Gaza Programme
+
+A repository for the coordination of activities in Gaza.
