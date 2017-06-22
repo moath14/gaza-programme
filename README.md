@@ -1,6 +1,6 @@
 # Gaza Programme
 
-The Gaza Programme repository is a place for discussions by the wider membership and for posting proposals for a vote at the London business meetings.
+The Gaza Programme repository is a place for discussions by the wider membership and for posting proposals for a vote at the Gaza business meetings.
 
 Please read the [CONTRIBUTING](./CONTRIBUTING.md) guidelines.
 
@@ -39,6 +39,6 @@ Please read the [CONTRIBUTING](./CONTRIBUTING.md) guidelines.
 
 ## Other Important Founders & Coders Repositories
 
-[Master-Reference](https://github.com/foundersandcoders/master-reference): Records and discussions about all aspects of common curriculum
+[Master-Reference](https://github.com/foundersandcoders/master-reference): Contains the full curriculum, as well as records and discussions about all aspects of the curriculum
 
 [International](https://github.com/foundersandcoders/international): Records and discussions for coordination across all campuses
