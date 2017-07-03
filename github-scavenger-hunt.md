@@ -1,5 +1,5 @@
 #### Overview
-+ Who provides technical oversight and strategic direction in FAC Gaza?
++ Who provides technical oversight in FAC Gaza?
 + Who is part of the Founders and Coders International team?
 
 #### How to contribute
