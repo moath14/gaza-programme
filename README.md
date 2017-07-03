@@ -42,3 +42,17 @@ Please read the [CONTRIBUTING](./CONTRIBUTING.md) guidelines.
 [Master-Reference](https://github.com/foundersandcoders/master-reference): Contains the full curriculum, as well as records and discussions about all aspects of the curriculum
 
 [International](https://github.com/foundersandcoders/international): Records and discussions for coordination across all campuses
+
+---
+
+## People
+
+### Local Staff
+|  Role  |  Description  |  Acting  |
+|--------|---------------|----------|
+| Course Coordinator | Support for mentors, coordinate schedule, maintain _master-reference_, collaborate with other course coordinators | [@eliascodes](https://github.com/eliascodes) |
+
+### FAC International Staff
+Dan: [@sofer](https://github.com/sofer)  
+Rebecca: [@rebeccaradding](https://github.com/rebeccaradding)  
+Ines: [@iteles](https://github.com/iteles)  
