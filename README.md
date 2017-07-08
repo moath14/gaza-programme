@@ -2,7 +2,7 @@
 
 The Gaza Programme repository is a place for discussions by the wider membership and for posting proposals for a vote at the Gaza business meetings.
 
-Please read the [CONTRIBUTING](./CONTRIBUTING.md) guidelines.
+Please read the [guidelines for participating in consensus-based decision making](https://github.com/foundersandcoders/international/blob/master/consensus-decisions.md) guidelines.
 
 ---
 
