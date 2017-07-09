@@ -18,9 +18,9 @@ Please read the [guidelines for participating in consensus-based decision making
 ### FACG3
 |              | Start          | Finish         |
 |--------------|:---------------|:---------------|
-| First half   |       TBD      |       TBD      |
-| Reading Week |       TBD      |       TBD      |
-| Second half  |       TBD      |       TBD      |
+| First half   | 05/11/2017     |   28/12/2017   |
+| Reading Week |    31/12/2017  |  04/01/2018    |
+| Second half  |    07/01/2017  |   01/03/2018   |
 
 
 ---
