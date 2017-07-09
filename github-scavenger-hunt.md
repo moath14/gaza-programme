@@ -17,4 +17,4 @@
 + Is anything that you have seen unclear? Are you left with any questions that you can't find the answer to?
 + Please raise an issue :tada:
 
-[Go back to the `master-reference`](https://github.com/foundersandcoders/master-reference/coursebook/general/github-scavenger-hunt.md)
+[Go back to the `master-reference`](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/github-scavenger-hunt.md)
